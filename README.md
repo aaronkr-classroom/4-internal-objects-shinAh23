@@ -1,2 +1,2 @@
-# 0-web-book-market
+# 4-interner-object
 Project files for DJU-WEB (Book Market JSP website).
